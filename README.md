@@ -6,38 +6,40 @@
 
 ## 🌐 Live Demo
 
-👉 **Try it now: **[**https://devpulse-ai-r0d4.onrender.com/**](https://devpulse-ai-r0d4.onrender.com/)
-⚡ (First load thoda slow ho sakta hai — free hosting 😅)
+👉 **Try it now:** https://devpulse-ai-r0d4.onrender.com
+⚡ *First load may take a few seconds (free hosting)*
 
 ---
 
 ## 🖼️ Preview
 
-### 🔹 Dashboard
+### 🔹 Home Screen
 
-### 🔹 Result View
+<img src="./assets/home.png" alt="DevPulse AI Home" width="900"/>
 
-> 💡 Tip: screenshots `assets/` folder me daal dena
+### 🔹 Dashboard Result
+
+<img src="./assets/dashboard.png" alt="DevPulse AI Dashboard" width="900"/>
 
 ---
 
 ## ⭐ Why DevPulse AI?
 
-DevPulse AI turns your GitHub profile into a powerful developer report:
+DevPulse AI transforms your GitHub profile into meaningful insights:
 
-* 📊 Understand your coding activity
-* 🔥 Track your consistency
-* 🧠 Get smart improvement tips
-* 🚀 Improve your developer profile
+* 📊 Developer Score (0–100)
+* 🔥 Contribution Streak Tracking
+* 🧠 Smart AI-style Suggestions
+* 💻 Clean & Modern Dashboard
 
 ---
 
 ## ✨ Features
 
 * 🔍 Analyze any GitHub profile instantly
-* 📊 Developer score (0–100)
-* 🔥 Contribution streak tracking
-* 🧠 AI-style suggestions
+* 📊 Developer productivity score
+* 🔥 Contribution streak insights
+* 🧠 Actionable improvement tips
 * 🌙 Dark mode support
 * ⚡ FastAPI powered backend
 
@@ -46,10 +48,10 @@ DevPulse AI turns your GitHub profile into a powerful developer report:
 ## 🧠 How It Works
 
 1. Enter a GitHub username
-2. Fetch data via GitHub API
-3. Analyze repos, commits, languages
-4. Generate score + suggestions
-5. Show results in the dashboard.
+2. DevPulse fetches public data via GitHub API
+3. Analyzes repos, commits, and languages
+4. Generates score + suggestions
+5. Displays everything in a clean dashboard
 
 ---
 
@@ -88,9 +90,9 @@ export GITHUB_TOKEN=your_token_here
 ## 🚀 Roadmap
 
 * [ ] Shareable profile links 🔗
-* [ ] Leaderboard 🏆
+* [ ] Leaderboard system 🏆
 * [ ] Export report (PDF) 📄
-* [ ] AI upgrade 🤖
+* [ ] Advanced AI insights 🤖
 
 ---
 
