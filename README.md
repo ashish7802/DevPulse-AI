@@ -15,11 +15,11 @@
 
 ### 🔹 Home Screen
 
-<img src="./assets/home.png" alt="DevPulse AI Home" width="900"/>
+<img src="./assets/home.png"/>
 
 ### 🔹 Dashboard Result
 
-<img src="./assets/dashboard.png" alt="DevPulse AI Dashboard" width="900"/>
+<img src="./assets/dashboard.png"/>
 
 ---
 
