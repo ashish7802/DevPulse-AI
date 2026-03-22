@@ -1,4 +1,3 @@
-# text.repo
 # DevPulse AI
 
 DevPulse AI is a FastAPI web app that analyzes a GitHub user's public profile and shows the results in a polished dashboard.
