@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+<img src="[https://img.shields.io/badge/Status-Active-success?style=for-the-badge](https://devpulse-ai-r0d4.onrender.com/)" />
 
 ---
 
