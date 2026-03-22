@@ -4,21 +4,31 @@
 
 ---
 
-## 🌐 Live Preview
+## 🌐 Live Demo
 
-<img src="[https://img.shields.io/badge/Status-Active-success?style=for-the-badge]" />
+👉 **Try it now: **[**https://devpulse-ai-r0d4.onrender.com/**](https://devpulse-ai-r0d4.onrender.com/)
+⚡ (First load thoda slow ho sakta hai — free hosting 😅)
+
+---
+
+## 🖼️ Preview
+
+### 🔹 Dashboard
+
+### 🔹 Result View
+
+> 💡 Tip: screenshots `assets/` folder me daal dena
 
 ---
 
 ## ⭐ Why DevPulse AI?
 
-DevPulse AI is a powerful **AI-inspired GitHub analyzer** that transforms raw profile data into meaningful insights — all inside a clean, modern web dashboard.
+DevPulse AI turns your GitHub profile into a powerful developer report:
 
-💡 Built for developers who want to:
-
-* Track growth 📈
-* Improve consistency 🔥
-* Optimize their GitHub presence 🚀
+* 📊 Understand your coding activity
+* 🔥 Track your consistency
+* 🧠 Get smart improvement tips
+* 🚀 Improve your developer profile
 
 ---
 
@@ -27,41 +37,19 @@ DevPulse AI is a powerful **AI-inspired GitHub analyzer** that transforms raw pr
 * 🔍 Analyze any GitHub profile instantly
 * 📊 Developer score (0–100)
 * 🔥 Contribution streak tracking
-* 🧠 AI-style improvement suggestions
-* 💻 Clean & modern dashboard UI
-* 🌙 Dark mode with saved preference
+* 🧠 AI-style suggestions
+* 🌙 Dark mode support
 * ⚡ FastAPI powered backend
-
----
-
-## 🖼️ Preview
-
-> *(Add your screenshot / GIF here for more stars 📈)*
 
 ---
 
 ## 🧠 How It Works
 
-DevPulse AI uses GitHub's public API to:
-
-* Fetch repositories & activity
-* Estimate commits & streaks
-* Analyze language usage
-* Generate a smart score
-* Provide actionable suggestions
-
----
-
-## 🏗️ Project Structure
-
-```
-DevPulse-AI/
-├── main.py
-├── github_api.py
-├── analyzer.py
-├── utils.py
-├── requirements.txt
-```
+1. Enter a GitHub username
+2. Fetch data via GitHub API
+3. Analyze repos, commits, languages
+4. Generate score + suggestions
+5. Show results in the dashboard.
 
 ---
 
@@ -79,7 +67,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Run the App
+## 🚀 Run Locally
 
 ```bash
 uvicorn main:app --reload
@@ -89,9 +77,7 @@ uvicorn main:app --reload
 
 ---
 
-## 🔐 Optional: GitHub Token
-
-Avoid rate limits:
+## 🔐 Optional Setup
 
 ```bash
 export GITHUB_TOKEN=your_token_here
@@ -99,66 +85,28 @@ export GITHUB_TOKEN=your_token_here
 
 ---
 
-## 🎨 UI Highlights
-
-* Smooth animations & gradients 🎨
-* Responsive dashboard layout 📱
-* LocalStorage-based theme saving 💾
-* Clean cards & modern styling ✨
-
----
-
-## 📊 Metrics Explained
-
-* **Score** → Combined dev activity rating
-* **Commits** → Estimated from public repos
-* **Languages** → Based on repo usage
-* **Streak** → Derived from recent activity
-* **Suggestions** → Rule-based insights
-
----
-
 ## 🚀 Roadmap
 
-* [ ] Export report as PDF 📄
-* [ ] Shareable public profile links 🔗
-* [ ] Leaderboard system 🏆
-* [ ] Real AI integration (LLM) 🤖
+* [ ] Shareable profile links 🔗
+* [ ] Leaderboard 🏆
+* [ ] Export report (PDF) 📄
+* [ ] AI upgrade 🤖
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-
-```bash
-fork → clone → improve → PR 🚀
-```
+Pull requests are welcome!
 
 ---
 
-## 🌟 Support
+## ⭐ Support
 
 If you like this project:
 
-👉 Drop a ⭐ on the repo
-👉 Share with other devs
+👉 Drop a ⭐
+👉 Share with friends
 
 ---
 
-## 🧠 Built With
-
-* Python 🐍
-* FastAPI ⚡
-* GitHub API 🔗
-* Love for dev tools ❤️
-
----
-
-## ⚡ Author
-
-**Ashish Yadav**
-
----
-
-> 💬 “Your GitHub tells your story — DevPulse helps you improve it.”
+> 💬 Built with ❤️ for developers
