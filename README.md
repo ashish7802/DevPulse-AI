@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 **Try it now:** https://devpulse-ai-r0d4.onrender.com
+👉 **Try it now:** https://devpulseai.up.railway.app/
 ⚡ *First load may take a few seconds (free hosting)*
 
 ---
